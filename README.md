@@ -1,5 +1,8 @@
 # React Tutorial 三目並べ
 
+## 準備
+「npm install」
+
 ## 起動法
 
 「npm run dev」
